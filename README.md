@@ -11,12 +11,16 @@
   #### npm install axios
 
   #### se debe levartar el backend 
-  ```cd backend
+  ```
+  cd backend
   ``` 
-  ```npm start
+  ```
+  npm start
   ```  
   #### y luego el frontend
-  ``` cd frontend
   ``` 
-  ```npm start
+  cd frontend
+  ``` 
+  ```
+  npm start
   ```
